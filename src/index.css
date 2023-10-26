@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  @apply bg-[#fff]
+}
+input:focus + label {
+  @apply text-violet-500
+}
