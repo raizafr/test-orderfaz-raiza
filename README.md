@@ -1,6 +1,7 @@
 # React + Vite
 
-#link preview
+## Link Preview
+Open [https://test-orderfaz-raiza.vercel.app/](https://test-orderfaz-raiza.vercel.app/)
 
 
 ## Getting Started
